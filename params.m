@@ -1,4 +1,4 @@
-%% DAB BESS System Parameters (From Paper 3)
+%% Parameters - sample / boilerplate for constants that can somehow be read into the simulink file
 % Hardware Constants
 Fs = 20e3;          % Switching Frequency (20 kHz)
 Ts = 1/Fs;          % Sampling Period
